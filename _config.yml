@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Paul Andrew
 tagline:             ┬─┬﻿ ノ( ゜-゜ノ)
-url:                 http://pauljandrew.github.io/poole/
+url:                 http://pauljandrew.github.io/
 paginate:            1
 baseurl:             ""
 
