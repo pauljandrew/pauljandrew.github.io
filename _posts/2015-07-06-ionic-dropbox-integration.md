@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Dropbox Chooser with Ionic
+comments: true
 ---
 
 In our [Ionic](ionicframework.com) app, users have the ability to send messages to each other. With attachments if desired. To support attachments, we use a basic HTML file input.
