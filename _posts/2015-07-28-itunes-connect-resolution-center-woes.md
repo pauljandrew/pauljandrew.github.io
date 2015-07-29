@@ -11,7 +11,7 @@ What follows is my contribution to the storied genre of App Review horror storie
 <!-- ![iTunes Connect](../public/itunes_connect.png "Doing what it does best: going haywire.") -->
 <table class="image">
 <caption align="bottom">Early prototype of iTunes Connect</caption>
-<tr><td align="center"><img src="../public/HAL9000.svg" alt="Credit: Cryteria"/></td></tr>
+<tr><td align="center"><img src="/public/HAL9000.svg" alt="Credit: Cryteria"/></td></tr>
 </table>
 
 Resolution Center is the part of iTunes Connect where the Apple reviewers communicate with you to request extra or corrected metadata info while your app goes through review.
