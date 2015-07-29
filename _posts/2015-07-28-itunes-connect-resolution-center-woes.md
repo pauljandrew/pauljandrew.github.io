@@ -4,15 +4,10 @@ title: A (Not So) Easy Mistake With iTunes Connect & Metadata Rejections
 comments: true
 ---
 
-What follows is my contribution to the storied genre of App Review horror stories. App names and version numbers have been changed to protect the innocent.
+*What follows is my contribution to the storied genre of App Review horror stories. App names and version numbers have been changed to protect the innocent.*
 
 -------
-
-<!-- ![iTunes Connect](../public/itunes_connect.png "Doing what it does best: going haywire.") -->
-<table class="image">
-<caption align="bottom">Early prototype of iTunes Connect</caption>
-<tr><td align="center"><img src="/public/HAL9000.svg" alt="Credit: Cryteria"/></td></tr>
-</table>
+![iTunes Connect](/public/itunes_connect.png "Doing what it does best: going haywire.")
 
 Resolution Center is the part of iTunes Connect where the Apple reviewers communicate with you to request extra or corrected metadata info while your app goes through review.
 
@@ -39,6 +34,10 @@ I released the app, only to discover to my dismay that, despite the app being li
 Once I figured out what had happened, I began the review process for a new version <span style="color:green">1.4</span> and requested an expedited review time, giving an explanation of how the incorrect IPA had become released.
 
 -----
+<table class="image">
+<caption align="bottom">Early prototype of iTunes Connect</caption>
+<tr><td align="center"><img src="/public/HAL9000.svg" alt="Credit: Cryteria"/></td></tr>
+</table>
 **From bad to worse...**
 
 After a 2 day wait, version <span style="color:green">1.4</span> went to *In Review* and then *Pending Developer Release*. I received no response from Apple regarding the expedited review process but the short turnaround *suggests* that they did expedite it. I submitted <span style="color:green">1.4</span> to the App Store and it went to "Ready for Sale" on a Friday afternoon, with the usual proviso that it could take up to 24 hours to actually reach the App Store.
