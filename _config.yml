@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Paul Andrew
+title:               Paul J. Andrew
 tagline:             ┬─┬﻿ ノ( ゜-゜ノ)
 description:         "Hi there! I'm a freelance web developer based in Mexico City."
 url:                 http://pauljandrew.github.io/
@@ -21,8 +21,8 @@ sass:
 
 # About/contact
 author:
-  name:              Paul Andrew
-  email:             pauljandrew@gmail.com
+  name:              Paul J. Andrew
+  email:             paul@pja.io
   twitter:           https://twitter.com/paujaman
   linkedin:          https://linkedin.com/in/pauljandrew
   github:            https://github.com/pauljandrew
