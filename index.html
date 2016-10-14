@@ -11,7 +11,8 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    <h2><i>{{post.subtitle}}</i></h2>
+    <br/>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
