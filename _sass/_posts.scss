@@ -59,3 +59,23 @@
     }
   }
 }
+
+#profile {
+  text-align: center;
+  @media (min-width: 38em) {
+    width: 23rem;
+  }
+  @media (min-width: 56em) {
+    float: left;
+    width: 13rem;
+  }
+  margin-bottom: 1rem;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 8rem;
+  height: 8rem;
+  display: block;
+  margin: auto;
+}

@@ -11,7 +11,11 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
     {% include masthead.html %}
-
+    {% if page.title == "About" %}
+    <div id="profile">
+      <img class="profile-pic" src="/public/profile.jpeg"/>
+    </div>
+    {% endif %}
       <div class="container content">
         {{ content }}
       </div>
