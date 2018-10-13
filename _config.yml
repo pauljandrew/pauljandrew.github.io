@@ -9,7 +9,7 @@ description:         "Hi there! I'm a freelance web developer based in Mexico Ci
 url:                 http://pauljandrew.github.io/
 paginate:            1
 baseurl:             ""
-title_image:         pja.io/public/profile.jpeg
+title_image:         http://pja.io/public/profile.jpeg
 
 
 # Assets
