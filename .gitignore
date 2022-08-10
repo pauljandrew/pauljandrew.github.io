@@ -4,6 +4,10 @@ _site
 .ruby-version
 .sass-cache
 
+Gemfile.lock
+.jekyll-cache
+package-lock.json
+
 # Numerous always-ignore extensions
 *.diff
 *.err
