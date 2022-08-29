@@ -4,8 +4,8 @@ permalink:           pretty
 
 # Setup
 title:               Paul J. Andrew
-tagline:             ┬─┬﻿ ノ( ゜-゜ノ)
-description:         "Hi there! I'm a freelance web developer based in Mexico City."
+tagline:             pja.io
+description:         "Hello! I'm a freelance web developer based in Mexico City."
 url:                 http://pauljandrew.github.io/
 paginate:            1
 baseurl:             ""
@@ -30,7 +30,7 @@ author:
   stackoverflow:     https://stackoverflow.com/users/389790/paul-andrew
 
 # Custom vars
-version:             2.0.0
+version:             2.0.1
 github:
   repo:              https://github.com/pauljandrew/pauljandrew.github.io
 
